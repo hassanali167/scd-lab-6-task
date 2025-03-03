@@ -27,8 +27,8 @@ Before running this project, ensure you have:
 ## Setup and Installation
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/task-management-system.git
-cd task-management-system
+https://github.com/hassanali167/scd-lab-6-task
+cd scd-lab-6-task
 ```
 
 ### 2. Run MongoDB in Docker
